@@ -9,15 +9,15 @@ View the live application: [Restaurant Menu App](#) <!-- Add your deployment lin
 
 ### Application Overview - Breakfast Section
 ![Breakfast Section](screenshots/breakfast-section.png)
-*Beautiful breakfast menu with gradient background and interactive recipe cards featuring Masala Chai, Gulab Jamun, and Chicken Biryani*
+*Beautiful breakfast menu with gradient background and "Restaurant Menu Cards" header, featuring interactive recipe cards for Masala Chai Recipe, Gulab Jamun, and Chicken Biryani with preparation times, serving information, and difficulty levels*
 
 ### Lunch & Dinner Sections
 ![Lunch & Dinner Sections](screenshots/lunch-dinner-section.png)
-*Main course items including Butter Chicken, Tandoori Chicken, and Chole Bhature with detailed preparation times and difficulty levels*
+*Lunch section displaying main course items including Butter Chicken, Tandoori Chicken, and Chole Bhature with detailed preparation times, cook times, serving sizes, and difficulty levels. Shows the beginning of the dinner section with elegant styling*
 
 ### Interactive Like System
 ![Like System](screenshots/like-interaction.png)
-*Real-time heart-shaped like buttons with counter functionality - users can interact with each recipe card*
+*Close-up view of the interactive heart-shaped like button with real-time counter showing "2" likes - demonstrating the engaging user interaction feature*
 
 ## 📋 Features
 
@@ -95,13 +95,11 @@ restorent/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
+ 
 
 ## 👨‍💻 Developer
 
-Developed by **Raju** - [GitHub Profile](#) <!-- Add your GitHub profile link -->
+Developed by **Basavrajkokane** - [GitHub Profile](#) <!-- Add your GitHub profile link -->
 
 ---
 
