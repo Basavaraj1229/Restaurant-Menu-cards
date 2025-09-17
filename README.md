@@ -5,6 +5,20 @@ A dynamic and interactive restaurant menu web application built with React and V
 ## 🚀 Live Demo
 View the live application: [Restaurant Menu App](#) <!-- Add your deployment link here -->
 
+## 📸 Screenshots
+
+### Application Overview - Breakfast Section
+![Breakfast Section](screenshots/breakfast-section.png)
+*Beautiful breakfast menu with gradient background and interactive recipe cards featuring Masala Chai, Gulab Jamun, and Chicken Biryani*
+
+### Lunch & Dinner Sections
+![Lunch & Dinner Sections](screenshots/lunch-dinner-section.png)
+*Main course items including Butter Chicken, Tandoori Chicken, and Chole Bhature with detailed preparation times and difficulty levels*
+
+### Interactive Like System
+![Like System](screenshots/like-interaction.png)
+*Real-time heart-shaped like buttons with counter functionality - users can interact with each recipe card*
+
 ## 📋 Features
 
 - **Dynamic Menu Categories**: Recipes organized into Breakfast, Lunch, and Dinner sections
